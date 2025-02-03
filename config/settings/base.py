@@ -23,7 +23,8 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Aquí agregarás tus apps (más adelante las moveremos a una carpeta apps/)
-    'apps.core'
+    'apps.core',
+    'apps.whatsapp',
 ]
 
 MIDDLEWARE = [
